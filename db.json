@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": {
+        "id": "abc123",
+        "name": "Cuthlehoop",
+        "premium": true
+      },
+      "category": "Sneakers",
+      "title": "Jordan 1 Retro High Court Purple White",
+      "description": "ngl i'm gonna miss these",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "size": "43",
+      "reviews": [],
+      "image": "../assets/Jordan 1 Retro High Court Purple White.jpg"
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": "abc124",
+        "name": "DaddyBruce",
+        "premium": true
+      },
+      "category": "Sneakers",
+      "title": "Jordan 1 Retro High Satin Black Toe(W)",
+      "description": "rarely wore. tari2 el jdide only",
+      "location": "Tari2 el jdide",
+      "date": "2019-01-31T22:09:00.000Z",
+      "size": "45",
+      "reviews": [],
+      "image": "../assets/Air-Jordan-1-Retro-High-Black-White-W-Product.jpg"
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": "abc125.",
+        "name": "Jad",
+        "premium": false
+      },
+      "category": "Sneakers",
+      "organizer": "Daddy Bruce",
+      "title": "Jordan 1 Retro High Black Crimson Tint",
+      "description": "pink for pink puss",
+      "location": "Da7yeh",
+      "date": "2019-02-02T23:27:00.000Z",
+      "size": "40",
+      "reviews": [],
+      "image": "../assets/Air-Jordan-1-Retro-High-Black-White-W-Product.jpg"
+    },
+    {
+      "id": 1655800,
+      "user": {
+        "id": "abc123",
+        "name": "Cuthlehoop",
+        "premium": true,
+        "location": "Tokyo"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Cuthlehoop",
+        "premium": true,
+        "location": "Tokyo"
+      },
+      "category": "Sneakers",
+      "title": "dragon balls z",
+      "description": "dff",
+      "location": "ddd",
+      "size": "9999",
+      "image": {}
+    }
+  ]
+}
